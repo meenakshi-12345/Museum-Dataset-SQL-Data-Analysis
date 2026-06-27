@@ -1,3 +1,5 @@
+<img width="1200" height="448" alt="Pixoate_converted_Landscape_(4_3)_download (1)" src="https://github.com/user-attachments/assets/f9e5463b-fe2f-4e5c-bc05-5d0f28031126" />
+
 
 
 # 🖼️ Museum Artwork Analysis using SQL
