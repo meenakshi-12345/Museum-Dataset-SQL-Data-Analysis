@@ -2,9 +2,9 @@
 
 
 
-# 🖼️ Museum Artwork Analysis using SQL
+#  Museum Artwork Analysis using SQL
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing a museum artwork dataset using SQL to uncover meaningful insights related to:
 
@@ -20,7 +20,7 @@ The objective of this project is not only to write SQL queries but also to trans
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 - SQL Server
 - SQL Queries
@@ -30,7 +30,7 @@ The objective of this project is not only to write SQL queries but also to trans
 
 ---
 
-# 🎯 Business Questions Explored
+#  Business Questions Explored
 
 The analysis answers questions such as:
 
@@ -44,7 +44,7 @@ The analysis answers questions such as:
 
 ---
 
-# 🧹 Data Cleaning & Quality Analysis
+#  Data Cleaning & Quality Analysis
 
 Before analysis, multiple data quality issues were identified:
 
@@ -79,11 +79,11 @@ Implement validation rules and regular data quality checks.
 
 ---
 
-# 📊 Key Insights & Findings
+#  Key Insights & Findings
 
 ---
 
-# 🏛️ Top 5 Museums by Artwork Collection
+#  Top 5 Museums by Artwork Collection
 
 **Popularity is defined based on the highest number of paintings in a museum.**
 
@@ -110,7 +110,7 @@ Museums with larger collections can:
 
 ---
 
-# 🎨 Top 5 Artists by Number of Paintings
+#  Top 5 Artists by Number of Paintings
 
 | Artist | Number of Paintings |
 |---|---:|
@@ -135,7 +135,7 @@ Museums can:
 
 ---
 
-# 🎭 Most Popular Painting Subjects
+#  Most Popular Painting Subjects
 
 Top subjects identified:
 
@@ -161,7 +161,7 @@ Museums can focus on popular subjects for:
 
 ---
 
-# 🎨 Popular Painting Style Analysis
+#  Popular Painting Style Analysis
 
 ### Finding:
 
@@ -190,7 +190,7 @@ Possible strategies:
 
 ---
 
-# 💰 Artwork Pricing Analysis
+#  Artwork Pricing Analysis
 
 ## Premium Artwork Analysis
 
@@ -230,7 +230,7 @@ Review pricing strategy and promotional opportunities.
 
 ---
 
-# 🖌️ Canvas Analysis
+#  Canvas Analysis
 
 ## Most Expensive Canvas Size
 
@@ -259,7 +259,7 @@ Benefits:
 
 ---
 
-# 🌍 Museum Location Analysis
+#  Museum Location Analysis
 
 ## Country and City with Highest Museum Concentration
 
@@ -288,7 +288,7 @@ Museums in high-density cultural areas can leverage:
 
 ---
 
-# 💎 Most Expensive & Least Expensive Artwork
+#  Most Expensive & Least Expensive Artwork
 
 ## Most Expensive Artwork
 
@@ -383,7 +383,7 @@ Lower-value artworks:
 <img width="750" height="394" alt="Screenshot 2026-06-24 220815" src="https://github.com/user-attachments/assets/b3f45dc9-b281-45c1-ad34-56c2bdb37872" />
 
 
-# 📌 Conclusion
+#  Conclusion
 
 This SQL analysis demonstrates how museum data can be transformed into meaningful business insights.
 
@@ -400,6 +400,7 @@ The project highlights opportunities to:
 # 👩‍💻 Author
 
 **Meenakshi Rajpurohit**
+connect : imeenakshhii28@gmail.com
 
 Aspiring Data Analyst  
 SQL | Power BI | Business Analytics
